@@ -32,6 +32,14 @@
 $ npm install
 ```
 
+## Dependencies
+
+`npm i --save @nestjs/graphql`
+`npm i --save apollo-server-express`
+`npm i --save graphql-tools`
+`npm i --save graphql`
+`npm i --save type-graphql`
+
 ## Running the app
 
 ```bash
