@@ -39,6 +39,7 @@ $ npm install
 `npm i --save graphql-tools`
 `npm i --save graphql`
 `npm i --save type-graphql`
+`npm i --save class-validator`
 
 ## Running the app
 
